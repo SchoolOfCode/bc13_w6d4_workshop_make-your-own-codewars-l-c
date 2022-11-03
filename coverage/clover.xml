@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1667489081820" clover="3.2.0">
+  <project timestamp="1667489081820" name="All files">
+    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="1" coveredelements="1" complexity="0" loc="0" ncloc="0" packages="1" files="1" classes="1"/>
+    <file name="main.js" path="C:\Users\banci\OneDrive\Documents\SchoolOfCode\letsgo\Week6\Day4\bc13_w6d4_workshop_make-your-own-codewars-l-c\main.js">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+    </file>
+  </project>
+</coverage>
